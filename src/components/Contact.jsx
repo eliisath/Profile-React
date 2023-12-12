@@ -2,9 +2,9 @@ import React from "react";
 
 function Contact() {
   return (
-    <div className="container mt-5">
+    <div className="container mt-5"> 
       <h2>Contacto</h2>
-      <form>
+      <form> 
         <div className="form-group">
           <label htmlFor="nombre">Nombre:</label>
           <input type="text" className="form-control" id="nombre" />
@@ -20,7 +20,7 @@ function Contact() {
         <div className="mb-3 mt-3">
           {" "}
           {/* Espacio adicional antes del botón */}
-          <button type="submit" className="btn btn-primary">
+          <button type="submit" className="btn btn-info">
             Enviar
           </button>
         </div>

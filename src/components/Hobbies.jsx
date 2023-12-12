@@ -10,18 +10,18 @@ function Hobbies() {
     },
     {
       id: 2,
-      nombre: "Fotografía",
-      descripcion: "Capturar momentos especiales con mi cámara.",
+      nombre: "Viajar",
+      descripcion: "Conocer lugares y viajar es una de mis pasiones.",
     },
     {
       id: 3,
-      nombre: "Pintura al óleo",
-      descripcion: "Crear obras de arte en lienzo.",
+      nombre: "Bailar",
+      descripcion: "Me encantan los ritmos como la bachata y la salsa.",
     },
     {
       id: 4,
-      nombre: "Jardinería",
-      descripcion: "Cultivar plantas y flores en mi jardín.",
+      nombre: "Jugar Videojuegos",
+      descripcion: "En mis tiempos libres me gusta jugar un poco en pc, consola y juegos moviles.",
     },
   ];
 

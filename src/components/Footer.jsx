@@ -2,8 +2,8 @@ import React from "react";
 
 function Footer() {
   return (
-    <footer className="bg-dark text-white text-center py-3">
-      &copy; {new Date().getFullYear()} Perfil de Usuario - Elisa Toro.
+    <footer className="text-bg-info p-3 text-center">
+      &copy; {new Date().getFullYear()} - Elisa Toro - Todos Los Derechos Reservados. 
     </footer>
   );
 }
